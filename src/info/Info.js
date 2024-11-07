@@ -51,29 +51,14 @@ export const info = {
     ],
     socials: [
         {
-            link: "https://facebook.com",
-            icon: 'fa fa-facebook',
-            label: 'facebook'
-        },
-        {
-            link: "https://instagram.com",
-            icon: 'fa fa-instagram',
-            label: 'instagram'
-        },
-        {
-            link: "https://github.com",
+            link: "https://github.com/vincent-softdev",
             icon: "fa fa-github",
             label: 'github'
         },
         {
-            link: "https://linkedin.com",
+            link: "https://www.linkedin.com/in/the-vinh-ly/",
             icon: "fa fa-linkedin",
             label: 'linkedin'
-        },
-        {
-            link: "https://twitter.com",
-            icon: "fa fa-twitter",
-            label: 'twitter'
         }
     ],
     bio: "Hello! I'm Vincent. I'm a Full Stack Developer. I studied Software Engineer at Swinbourne University of Technology and Torrens University Australia, I enjoy long walks on the beach with my dogs, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
@@ -105,16 +90,16 @@ export const info = {
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
-            title: "Shopping Helper",
-            live: "#", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "#", // this should be a link to the **repository** of the project, where the code is hosted.
-            image: mock1
+            title: "Facebook Clone",
+            live: "https://facebook-clone-hosting-55491.firebaseapp.com/",
+            source: "https://github.com/vincent-softdev/facebook-clone-hosting.git",
+            image: mock2
         },
         {
-            title: "Facebook Clone",
-            live: "#",
-            source: "#",
-            image: mock2
+            title: "Smart Novel",
+            live: "https://smartnovel-e0696.firebaseapp.com/",
+            source: "https://github.com/vincent-softdev/smart_novel",
+            image: mock1
         }
     ]
 }
