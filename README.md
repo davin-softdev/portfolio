@@ -1,8 +1,1 @@
-# DESCRIPTIO
 
-
-
-
-# CITE
-
-paytonpierce.dev
